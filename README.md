@@ -43,15 +43,15 @@ Among those devices, tests are conducted with the following devices, and is
 guaranteed to work:
 
 *   iPhone 4s (No Touch ID)
-*   iPhone 7
 *   iPhone 6 Plus
+*   iPhone 7
 *   iPad 2 (No Touch ID)
 
 ## License
 
 **TL;DR:** This software is licensed under the 3-clause BSD license.
 
-Actual license text is located in [here][/LICENSE.md]
+Actual license text is located in [here](/LICENSE.md)
 
 ## Contact
 
